@@ -1,0 +1,15 @@
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab6\Arrays vs. Lists\bin\Debug\net6.0\Arrays vs. Lists.exe
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab6\Arrays vs. Lists\bin\Debug\net6.0\Arrays vs. Lists.deps.json
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab6\Arrays vs. Lists\bin\Debug\net6.0\Arrays vs. Lists.runtimeconfig.json
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab6\Arrays vs. Lists\bin\Debug\net6.0\Arrays vs. Lists.dll
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab6\Arrays vs. Lists\bin\Debug\net6.0\Arrays vs. Lists.pdb
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab6\Arrays vs. Lists\obj\Debug\net6.0\Arrays vs. Lists.csproj.AssemblyReference.cache
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab6\Arrays vs. Lists\obj\Debug\net6.0\Arrays vs. Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab6\Arrays vs. Lists\obj\Debug\net6.0\Arrays vs. Lists.AssemblyInfoInputs.cache
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab6\Arrays vs. Lists\obj\Debug\net6.0\Arrays vs. Lists.AssemblyInfo.cs
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab6\Arrays vs. Lists\obj\Debug\net6.0\Arrays vs. Lists.csproj.CoreCompileInputs.cache
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab6\Arrays vs. Lists\obj\Debug\net6.0\Arrays vs. Lists.dll
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab6\Arrays vs. Lists\obj\Debug\net6.0\refint\Arrays vs. Lists.dll
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab6\Arrays vs. Lists\obj\Debug\net6.0\Arrays vs. Lists.pdb
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab6\Arrays vs. Lists\obj\Debug\net6.0\Arrays vs. Lists.genruntimeconfig.cache
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab6\Arrays vs. Lists\obj\Debug\net6.0\ref\Arrays vs. Lists.dll

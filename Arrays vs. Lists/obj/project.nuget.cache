@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "sPLMTy1+C0YsRLYzpPW8Auns0f/Y6tod6iGut1JR2hgV3L7a8rGJRxIzbl7BiKBXyat7Q4CYff7Cor4JSwWs1Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nicka\\Documents\\College Documents\\Classes\\CSCI 1260 - Intro to Comp. Sci. 2\\Projects\\1260-002-CrumpNick-Lab6\\Arrays vs. Lists\\Arrays vs. Lists.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nicka\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\nicka\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\nicka\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\nicka\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.15\\microsoft.netcore.app.host.win-x64.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
